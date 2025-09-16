@@ -1,4 +1,4 @@
-# Practical Deep Learning: Master PyTorch in 15 Days
+# Deep Learning Course
 
 This repository contains my exercises, code, and notes from the Udemy course:  
 [Practical Deep Learning: Master PyTorch in 15 Days](https://www.udemy.com/share/10cHmB3@j04rI0ST64s1wYwvgH_QVkm6l5EA8WJjsPpXGpVrYDGjEVlUtoDruFF_WivM_GdJ/).
